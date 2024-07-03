@@ -1,0 +1,9 @@
+.carousel-item {
+    height: 400px; /* Set a fixed height for the carousel items */
+  }
+  
+  .carousel-image {
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the entire area */
+  }
+  
